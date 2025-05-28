@@ -76,9 +76,9 @@
   border-radius: 10px;
 }
 
-.3-star { background: #555; }
-.4-star { background: #9b59b6; }
-.5-star { background: #f1c40f; }
+.three-star { background: #555; }
+.four-star { background: #9b59b6; }
+.five-star { background: #f1c40f; }
 
 .stars {
   font-size: 2rem;
