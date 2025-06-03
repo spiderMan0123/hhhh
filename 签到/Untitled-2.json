@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "打卡签到插件",
+    "version": "1.0",
+    "description": "点击按钮进行打卡签到并获得金币",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png"
+        }
+    },
+    "permissions": ["storage"]
+}

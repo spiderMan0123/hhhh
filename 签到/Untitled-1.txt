@@ -1,0 +1,5 @@
+sign-in-plugin/
+├── manifest.json
+├── popup.html
+├── popup.js
+└── styles.css
